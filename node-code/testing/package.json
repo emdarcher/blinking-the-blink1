@@ -1,0 +1,7 @@
+{
+    "name":"testing-blink1",
+    "dependencies": {
+        "node-blink1":"~0.1.6",
+        "step":"~0.0.6"
+    }
+}
